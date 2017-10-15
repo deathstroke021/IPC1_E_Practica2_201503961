@@ -1,2 +1,2 @@
-Practica 2 IPC1 E
+Practica 2 IPC1 E:
 Game of life
