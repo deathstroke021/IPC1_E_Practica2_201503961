@@ -1,0 +1,33 @@
+
+.classic-label {
+    -fx-border-color: gray;
+    -fx-border-width: 1.0px;
+    -fx-background-color: gray;
+}
+
+.border-pane {
+    -fx-background-color: #D3D3D3;
+}
+
+.label-information {
+    -fx-border-color: #D3D3D3;
+    -fx-font: 15px monospace;
+    -fx-text-fill: black;
+}
+
+.button {
+    -fx-border-width: 2px;
+    -fx-font: 13px monospace;
+    -fx-border-color: white;
+    -fx-border-radius: 10 10 10 10;
+    -fx-background-radius: 10 10 10 10;
+    -fx-text-fill: white;
+    -fx-background-color: gray;
+}
+
+.button:hover {
+    -fx-border-color: green;
+    -fx-text-fill: black;
+    -fx-background-color: white;
+}
+
